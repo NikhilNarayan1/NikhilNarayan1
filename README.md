@@ -6,7 +6,7 @@ New Delhi, Delhi</h6>
 <h5>🌱 I’m currently learning full stack web development</h5>
 <hr>
 <h4>📫 How to reach me</h4>
-<a href="https://www.linkedin.com/in/nikhil-narayan-upadhyay-09391a340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><em>Visit Linkedin profile</em></a><br>
+<small>📧 : mdhv694@gmail.com </small>
 
 
 
