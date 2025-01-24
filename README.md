@@ -1,13 +1,50 @@
-<h3>👋 Hi, I’m Nikhil Narayan Upadhyay</h3>
-<h6>- A computer science and engineering undergrad (1st year)<br>
-Delhi Technological University (formely DCE)<br>
-New Delhi, Delhi</h6>
-<hr>
-<h5>🌱 I’m currently learning full stack web development</h5>
-<hr>
-<h4>📫 How to reach me</h4>
-<small>📧 : mdhv694@gmail.com </small>
 
+# Welcome to Nikhil Narayan Upadhyay's GitHub Profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
+
+## About Me
+
+I'm an undergraduate student at **Delhi Technological University (DTU)** currently pursuing **BTech in Computer science and engineering**
+
+## 🌱 I'm currently learning
+
+- *Web Development (Full Stack)*
+- *Data Structures and Algorithms (DSA)*
+
+## I’m from New Delhi, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
+
+
+## ⚡ One line that describes me best? 
+A curious boy who loves and enjoy to explore tech & coding.😉😉
+
+
+## Familiar Tech Stack:
+
+<!-- coding boy -->
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
+
+<!-- language -->
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,python,nodejs,js,html,css)]()
+
+<br/>
+
+### Used Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)]()
+
+<br/>
+
+### Used Frameworks:
+
+[![My Skills](https://skillicons.dev/icons?i=express,django,bootstrap)]()
+<br><br><br><br>
+
+## 📫 How can you reach me?
+
+- Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Rahul69-aiiy)
+- Instagram: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>]()
+- LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](www.linkedin.com/in/rahul-pratap-456a251bb)
+- Email: [prataprahul7678@gmail.com](mailto:mdhv694@gmail.com)
 
 
 
